@@ -1,20 +1,16 @@
-```python?code_reference&code_event_index=5
-# Generating the README.md content as a Markdown file for the user.
+Welcome to the **Soidyn HD Engine** repository, an advanced audio processing framework designed for high performance, real-time spectral analysis, and spatial optimization.
 
-readme_content = """# Soidyn HD Engine
+## 🚀 Key Features
+- **Acoustic Anomaly Detection**: Automated detection of room resonance and comb filtering.
+- **Adaptive DSP Actuator**: Real-time audio compensation using anti-phase cancellation technology.
+- **Spatial Surround Upscaling**: Transforms stereo input into an immersive virtual 5.1 audio field.
+- **Low Latency**: Designed for sub-2ms processing loops.
 
-Selamat datang di repositori **Soidyn HD Engine**, sebuah framework pemrosesan audio canggih yang dirancang untuk performa tinggi, analisis spektral *real-time*, dan optimasi ruang spasial.
+## 🛠️ System Architecture
+The engine is built using modular components for maximum efficiency:
+* **`AidenCognitiveBrain`**: Cognitive core for spectral analysis.
+* **`AdaptiveDSPActuator`**: Actuator interface for filter execution and correction.
+* **`VirtualAudioDriver`**: Virtual driver layer for seamless kernel integration.
 
-## 🚀 Fitur Utama
-- **Acoustic Anomaly Detection**: Deteksi otomatis resonansi ruangan dan *comb filtering*.
-- **Adaptive DSP Actuator**: Kompensasi audio *real-time* dengan teknologi *anti-phase cancellation*.
-- **Spatial Surround Upscaling**: Mengubah input stereo menjadi bidang audio 5.1 virtual yang imersif.
-- **Low Latency**: Dirancang untuk *loop* pemrosesan sub-2ms.
-
-## 🛠️ Arsitektur Sistem
-Engine ini dibangun menggunakan komponen modular untuk efisiensi maksimum:
-* **`AidenCognitiveBrain`**: Pusat kognitif untuk analisis spektral.
-* **`AdaptiveDSPActuator`**: Antarmuka aktuator untuk eksekusi filter dan koreksi.
-* **`VirtualAudioDriver`**: Lapisan driver virtual untuk integrasi kernel yang mulus.
-
-## 📋 Struktur Proyek
+##Fake HDR System
+* **`Soidyn Nyt`**: HDR15+ (Fake)
